@@ -11,4 +11,7 @@ p1
 {
     font-style: italic
 };   
+
+body{
+    background-color: aqua;
 }
