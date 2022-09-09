@@ -22,7 +22,7 @@ This is a project about the biography of Amani, the purpose and usage of the pro
 
  
 
-- This is a great place to be, to learn more on Amani
+- This is a great place to be, to learn more on Amani.
 
 - You will learn on Amani's Background including education, job experience etc.
 
