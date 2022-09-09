@@ -72,7 +72,7 @@ Copyright (c) 2022 **Amani Kai**
 
  
 
-#### This project is about the biography of Diana, Version Date: 9th Sept 2022
+#### This project is about the biography of AMANI, Version Date: 9th Sept 2022
 
  
 
@@ -84,7 +84,7 @@ Copyright (c) 2022 **Amani Kai**
 
  
 
-This is a project about the biography of Diana, the purpose and usage of the project is state more information on Diana's hobbies, interests and skills. This project is my first assignment for week one and I will explain the list of projects that I have been creating using visual studio code, git bash and the uploading on Github.
+This is a project about the biography of Amani, the purpose and usage of the project is state more information on Amani's hobbies, interests and skills. This project is my first assignment for week one and I will explain the list of projects that I have been creating using visual studio code, git bash and the uploading on Github.
 
  
 
